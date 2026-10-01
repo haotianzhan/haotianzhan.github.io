@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haotianzhan.github.io/sitemap.xml
